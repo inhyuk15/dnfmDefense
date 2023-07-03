@@ -1,0 +1,4 @@
+[#ISSUE_NUMBER] Commit message
+
+- Summary of changes made in this commit
+- Additional details or bullet points (optional)

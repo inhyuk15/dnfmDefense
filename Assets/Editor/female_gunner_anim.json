@@ -1,0 +1,27 @@
+{
+    "animations": [
+        {"name": "idle", "startFrame": 1, "endFrame": 5},
+        {"name": "idle2", "startFrame": 15, "endFrame": 21},
+        {"name": "gunCheckUp", "startFrame": 6, "endFrame": 10},
+        {"name": "clab", "startFrame": 11, "endFrame": 14},
+        {"name": "normalAttack", "startFrame": 22, "endFrame": 36},
+        {"name": "flameShot", "startFrame": 37, "endFrame": 52},
+        {"name": "firing", "startFrame": 53, "endFrame": 68},
+        {"name": "walk", "startFrame": 69, "endFrame": 76},
+        {"name": "dash", "startFrame": 77, "endFrame": 82},
+        {"name": "slide", "startFrame": 83, "endFrame": 84},
+        {"name": "throw", "startFrame": 85, "endFrame": 89},
+        {"name": "hurt", "startFrame": 90, "endFrame": 91},
+        {"name": "down", "startFrame": 92, "endFrame": 92},
+        {"name": "jump", "startFrame": 93, "endFrame": 97},
+        {"name": "fall", "startFrame": 98, "endFrame": 99},
+        {"name": "jumpAttack", "startFrame": 100, "endFrame": 103},
+        {"name": "windmill", "startFrame": 104, "endFrame": 108},
+        {"name": "kick", "startFrame": 109, "endFrame": 111},
+        {"name": "upper", "startFrame": 112, "endFrame": 116},
+        {"name": "grap", "startFrame": 117, "endFrame": 119},
+        {"name": "moveShot", "startFrame": 120, "endFrame": 140},
+        {"name": "throw2", "startFrame": 141, "endFrame": 143},
+        {"name": "victory", "startFrame": 144, "endFrame": 149}
+    ]
+}

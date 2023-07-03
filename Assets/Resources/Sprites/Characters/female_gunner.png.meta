@@ -1,0 +1,3431 @@
+fileFormatVersion: 2
+guid: b341f034d44004ae1a00a638fdc99e03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: female_gunner_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1943
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1c163b44924c4e8e1552e5686ffaa
+      internalID: 1977729965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1943
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067633b0001845c2a551d5d428e788a
+      internalID: 981051337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1943
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9077fe8bba20444fbb748447082670c
+      internalID: 1137608358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1943
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402dac688dcba43afa6b2550774db981
+      internalID: -49256512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1943
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f106d2b70c1a4ea28d372511fcc6f4f
+      internalID: 1003277687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1876
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c3a44f877d43c2a496afb4ffa00cf
+      internalID: 477297586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1876
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e77fb113697458aafc4974b674a415
+      internalID: -1685213588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1876
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f3bd06517e4418ab484572a14da854
+      internalID: -1299298663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1876
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e488422019114729821fbafa0d5a772
+      internalID: 680241072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1876
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f8b7efdb17461cb6d5581e7429f0e
+      internalID: -878516624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f902afccb443a39492e8da7cfbc52
+      internalID: 195940017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1809
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7e7fa0e5dc4a1fac326968c1edfb6
+      internalID: -740390149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1809
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02605d596b7d14a3fbf16ec8f1fdf77a
+      internalID: 1084585394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1809
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36efbf1473b8c4b488261a778cb5d524
+      internalID: -1622768688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1809
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783cdde3e691444eb7eab26b01f6133
+      internalID: -1402093142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1742
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26419e4a2fcf4d3692963851c545b52
+      internalID: 713753129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1742
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71253dbd7e73446af8b148fed2fc7706
+      internalID: -683883622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1742
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd592dbda352747cf9972ec589150e1f
+      internalID: 180168190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1742
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb238bef87b4446a795fe1c8ddba833d
+      internalID: 1746559269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1742
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b23f12b37cb94c6ba3425b412712a65
+      internalID: 1998758416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acce24bbeef94a61accac1d4441871e
+      internalID: -439826898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1675
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307dab4e97d874a9cbaaa1fc9341ef42
+      internalID: -1145401461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1675
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9d32502f41404685216e8e5d9e604
+      internalID: 1497772545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1675
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69011c12faa54d04b2b8466a6a5288d
+      internalID: -1798083355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1675
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b87b4d4e48d4e25b362de44853df63
+      internalID: -1604169396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cae5d3e8b4946cb94d1f7842db2f82
+      internalID: -2123120148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1608
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cc298caf4e4185877820c709a1cf0
+      internalID: -373419013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1608
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d1a96e84fb4c439c3a4e0644921b3
+      internalID: -194008240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_28
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1608
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad229cb5739c47fbb9acf0784a715a8
+      internalID: 69980411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1608
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bf8b01eb24845f88b5ef4696613642
+      internalID: 1538621102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1541
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f301703a2df4074ae7aa2bfa9250c1
+      internalID: 360429661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1541
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41d14b9dfee4acba711fa802acfcbd
+      internalID: 707637120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1541
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044b27d9a7fd4f5a846a41bdab7d3a0
+      internalID: 1417640259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1541
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea01b63fd166b493ca8b84a306ab4141
+      internalID: -1237967641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1541
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cc85339c8040bcbaf69e06e7de179
+      internalID: 2093608894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ac442aec1745e4923f7b75d50deac
+      internalID: -519906474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1474
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14130590cfe6443b393f1399ac4a0592
+      internalID: -612882596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1474
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f90e43b03014728a553dcba61076ca
+      internalID: -204241948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1474
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0c602b1bbd244739e8c1c44323a6c4
+      internalID: 69789747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1474
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd4fb4750aca422aafd36268f95d50b
+      internalID: 559099285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ae5677e7094c09b39c075dc2a6e24
+      internalID: 829293618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1407
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117d071fdb8d4464e9e973af2da9b8ab
+      internalID: -195718860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1407
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498c2755857a54273a5714b74952b618
+      internalID: -1979166121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1407
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049720d3b497c470bb734d1946645b6f
+      internalID: -1590101440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1407
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574055d9688dd4ecbb28be921e6c6df1
+      internalID: -1808257007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1340
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc5996ea1c547978cf21521f309503
+      internalID: -314422762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1340
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9da681fbd9a40b19b8a04282ee4586
+      internalID: -2146964524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1340
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21da9ffd9d6b34ee5aacbc090cc95d57
+      internalID: 2006038474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_48
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1340
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f0d67650b344df8f3cb8682db7c51
+      internalID: 1696001504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1340
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548634e1dbab94bfcaa99b701594a9cb
+      internalID: -563051791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1273
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442f6ac10fffa4cc8b1f587197a4bb5b
+      internalID: -527606299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1273
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40770dadbb8640059fc3d65689bf1d9
+      internalID: 2133525928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1273
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a18ca53f09a04861bead5a30507858f
+      internalID: -856971263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1273
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94038824f9d924823a87591fc95c8617
+      internalID: 381580561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1273
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507ceb97af4144b0858842b14bd3bc7
+      internalID: -909822218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece6bf9b6fc44921bf0512f94053eaa
+      internalID: 1874365885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_56
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1206
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c6bd637f9bf46be9d0e7342b323476
+      internalID: -2104623246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1206
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4487956ff841acb9ea33bae404e6d
+      internalID: 392468013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_58
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1206
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a64fb2a2764ec6ba0317ba3581ea4
+      internalID: 1794860911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_59
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1206
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c2919fcc03347efb04efde641027ab
+      internalID: -2099040057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1139
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74561bbc22d04f18b14a82a64f83b3b
+      internalID: -1485980832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1139
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa072cbdf974c92b772e0c77a064cf
+      internalID: -153934801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1139
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce80d1842b144d6a44c1e03c26934d
+      internalID: 808725617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1139
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1215db8c4e26b45e596d71425e27d96c
+      internalID: 1458712133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1139
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde5c5af8e61b4b639c11144bc0ef699
+      internalID: -597822608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b116dcf10abf5416da9f545fd7f4d1b2
+      internalID: 545946299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1072
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671dc90294ca14224a50ae2ca757b6bf
+      internalID: -150090151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_67
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1072
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d2f378899b45398d2333e494d6d92
+      internalID: 1857682505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1072
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b49bd059cf641f1ae95c83851ec522
+      internalID: -298123892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_69
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1072
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16396e14c6c04fbfa84ced6ac7156b1
+      internalID: -592892869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889cfc6404aa84851b1bc5712705027e
+      internalID: 841872407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1005
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd3921b9af548fc90a0d3a0dedc363
+      internalID: 93554616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1005
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783cf3b89879844bf922f86bfdc532c0
+      internalID: -1639184146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1005
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9d2ab8657fa4e5bb6cc8bca6389da8
+      internalID: -1650015348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1005
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b26993570b994d65bc3973e616c3af6
+      internalID: -491425542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 938
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc73568289b4d8cb1c6aafd116d967
+      internalID: 825652917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 938
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585db813ded89403eb4fdbc3c76d3cb2
+      internalID: 776099174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 938
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219ed86299df45dd883351de7ad19ec
+      internalID: -39099737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_78
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 938
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c655e24f01e4c4ba43941832e13f6d
+      internalID: -2099272037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 938
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7203454a14f5545868e77782ca837f18
+      internalID: -2133094072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 871
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2029f7b0c2b744e6b0de15621901f9b
+      internalID: 1468970062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 871
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd6b30520ef48d9855311a89760959
+      internalID: 2093336854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 871
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2100c4684e4c147f78c12039daa6b322
+      internalID: -248396464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 871
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a31943c30624483871b9e9e9a502ad
+      internalID: 1322837613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 871
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9346922843c479ba08ffd42411df3d
+      internalID: 1319314544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6fb04ee10846148f6fb08a7b4f329
+      internalID: -787500840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 804
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc650b7afce4bd4b2808acb33883e3
+      internalID: 1655008215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_87
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 804
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd69cda1a5248f0bce435af5a62233
+      internalID: 1916544959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_88
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 804
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9652046e98f414c55823636ea15a7352
+      internalID: -841477489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_89
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 804
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db1b11143f3a44c6a501827d085625f
+      internalID: -993138948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 737
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0663f22b5ce42f1b554106ed77027e
+      internalID: -806602641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 737
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd5e426c58a541a1974aeca5a7f1873
+      internalID: 325857033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 737
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4af49ab87cb47aa8c5ddd0b3e32190
+      internalID: -1806435189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 737
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba2bae22aa7849659783c9b464ff03f
+      internalID: 2077758365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 737
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f0d9d8e1a2457998d6d4db0a5e4e6
+      internalID: -1466078997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130898a3e38f4a8d9ba54919267e290
+      internalID: 1974232958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 670
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550425f23375a42e1b8986982c295c68
+      internalID: -254345715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_97
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 670
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414b986c35a640c4927583ebf2c4f0a
+      internalID: -1158840835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_98
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 670
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e15f25994a345bba6a412dc076c3a7
+      internalID: -1818900846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_99
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 670
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a47af38efa54b8994e2d5433ecca79
+      internalID: 132829690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88b1192f79c4082922e5eca4787505
+      internalID: 1686518122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 603
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7aacafb0cc4175aec6bdc38934060
+      internalID: -627219000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_102
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 603
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe9bc3cb6c1441b29daff3be36c65c6
+      internalID: 1901714467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_103
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 603
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3e2d7f78fe4875bf82c9f0ec5071a
+      internalID: -1557492318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 603
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635be0e84d29a414fb08229597ee360e
+      internalID: 1526062784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b699a89869f940d69eabdacabd43b14
+      internalID: -1002156142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_106
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 536
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0257e4deb35cd4cc6a0dcac8cbbe9430
+      internalID: 1232317081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_107
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 536
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314f9e390820d49fc82ca782a98472cc
+      internalID: 35696065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_108
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 536
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0662c4aa68cc44dde842481a5254d4b1
+      internalID: -998724347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_109
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 536
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c7b967bc7f453ba6fcfac826bc8aa
+      internalID: 1279153177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d6b985f01244b0d993a0dd0b924bfc
+      internalID: -1054082816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_111
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 469
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4054f1a776a9d4a49b060e65f9ba3ae4
+      internalID: 1869410601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 469
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2628c1583bab0499fbdb38637d2c9135
+      internalID: 518991317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 469
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397e11ed419644669af43456bf522aab
+      internalID: -476888019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_114
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 469
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3371db0fb03714ed88fdbaad1e08b39a
+      internalID: 808440949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6b1b65437244458159b1d422f7b9a
+      internalID: 458443305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_116
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 402
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d158d2d8b84728bc61a958561978e
+      internalID: -666571778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 402
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d475d29dba44956a78a16a3773b853
+      internalID: 772377419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 402
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1114f6f7774784ba6938f927a070f1e3
+      internalID: -668724946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_119
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 402
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab956cc97013a4e0d94ba5c30a8f8352
+      internalID: -276205988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705974a9ab664766a1d437f7c57c250
+      internalID: -1831592548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_121
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 335
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0590a2ae8d1f846bf9654e352dece648
+      internalID: -1867139815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_122
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 335
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce613a379234507b7ba65d8f0ab9f4
+      internalID: 369079569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_123
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 335
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af3d2e1263d4187a7857b6c0e394f8
+      internalID: -337958461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_124
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 335
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa664fe8ba4642d9980fc723fc16531
+      internalID: 810459824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc994a4cb907f467db32df68ac51644e
+      internalID: -129836021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 268
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3150e6988070f4ebfb0be4689ff05d6b
+      internalID: 1038521637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_127
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 268
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d413655c80449415e85ef30a203c1265
+      internalID: 1330357253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_128
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 268
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972a5eec32f649a792a38720828aa54
+      internalID: -1693419854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_129
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 268
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f08423a1eefa4af582f04765af8e29e
+      internalID: 1685450526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71749557e73c643029e2bcb103ead819
+      internalID: 1905621335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_131
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 201
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd95ace0c0b64da4bd1f2ebf56eb110
+      internalID: -1004827024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_132
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 201
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0776814a75c41c1b9c6260d358d95c
+      internalID: 459166857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_133
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 201
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70e2cf3fce9406bbd36e729c2bc148
+      internalID: -593716327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_134
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 201
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18113472635524248be6e53dc91aba5d
+      internalID: -1389988857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc28b318ff9c4cd68254d90dc28b9d2
+      internalID: 1437681207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_136
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 134
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e969b9fd5a6149c7adfe1c855a80f8b
+      internalID: 2009137238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 134
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44b034144e3f4807a31e194ba9bebd2
+      internalID: 1822409127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_138
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 134
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd886017189e44f8aa2eff32986e04f
+      internalID: -767418500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 134
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb5d1d60e01498597b2f08b9791a19
+      internalID: -1492621229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127c2c70ccd340adb43025d846281b1
+      internalID: -2007349541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_141
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0895e6f477a04880b96158bf3e904f9
+      internalID: -1294802649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_142
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 67
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3512d191c574f528c857cc3f172d8d
+      internalID: -458824291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_143
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 67
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450c65294772459db58aa367ba827dc
+      internalID: -2119085628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_144
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 67
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150929839f79b4a62a8b569ae86e358d
+      internalID: 2082262448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fca11b6a767a4c09b8400de66574464
+      internalID: -1429204007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_146
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4838f29f005da476b979c68550c5fa6e
+      internalID: 1019268662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_147
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b8bb626802b4853b417f585110015d
+      internalID: 862089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_gunner_148
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a136d1f8f1b64a128ac7c3ee6a91982
+      internalID: -2103511691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d6cb039e652745278803ad0c27e4fde
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      female_gunner_0: 1977729965
+      female_gunner_1: 981051337
+      female_gunner_10: 195940017
+      female_gunner_100: 1686518122
+      female_gunner_101: -627219000
+      female_gunner_102: 1901714467
+      female_gunner_103: -1557492318
+      female_gunner_104: 1526062784
+      female_gunner_105: -1002156142
+      female_gunner_106: 1232317081
+      female_gunner_107: 35696065
+      female_gunner_108: -998724347
+      female_gunner_109: 1279153177
+      female_gunner_11: -740390149
+      female_gunner_110: -1054082816
+      female_gunner_111: 1869410601
+      female_gunner_112: 518991317
+      female_gunner_113: -476888019
+      female_gunner_114: 808440949
+      female_gunner_115: 458443305
+      female_gunner_116: -666571778
+      female_gunner_117: 772377419
+      female_gunner_118: -668724946
+      female_gunner_119: -276205988
+      female_gunner_12: 1084585394
+      female_gunner_120: -1831592548
+      female_gunner_121: -1867139815
+      female_gunner_122: 369079569
+      female_gunner_123: -337958461
+      female_gunner_124: 810459824
+      female_gunner_125: -129836021
+      female_gunner_126: 1038521637
+      female_gunner_127: 1330357253
+      female_gunner_128: -1693419854
+      female_gunner_129: 1685450526
+      female_gunner_13: -1622768688
+      female_gunner_130: 1905621335
+      female_gunner_131: -1004827024
+      female_gunner_132: 459166857
+      female_gunner_133: -593716327
+      female_gunner_134: -1389988857
+      female_gunner_135: 1437681207
+      female_gunner_136: 2009137238
+      female_gunner_137: 1822409127
+      female_gunner_138: -767418500
+      female_gunner_139: -1492621229
+      female_gunner_14: -1402093142
+      female_gunner_140: -2007349541
+      female_gunner_141: -1294802649
+      female_gunner_142: -458824291
+      female_gunner_143: -2119085628
+      female_gunner_144: 2082262448
+      female_gunner_145: -1429204007
+      female_gunner_146: 1019268662
+      female_gunner_147: 862089
+      female_gunner_148: -2103511691
+      female_gunner_15: 713753129
+      female_gunner_16: -683883622
+      female_gunner_17: 180168190
+      female_gunner_18: 1746559269
+      female_gunner_19: 1998758416
+      female_gunner_2: 1137608358
+      female_gunner_20: -439826898
+      female_gunner_21: -1145401461
+      female_gunner_22: 1497772545
+      female_gunner_23: -1798083355
+      female_gunner_24: -1604169396
+      female_gunner_25: -2123120148
+      female_gunner_26: -373419013
+      female_gunner_27: -194008240
+      female_gunner_28: 69980411
+      female_gunner_29: 1538621102
+      female_gunner_3: -49256512
+      female_gunner_30: 360429661
+      female_gunner_31: 707637120
+      female_gunner_32: 1417640259
+      female_gunner_33: -1237967641
+      female_gunner_34: 2093608894
+      female_gunner_35: -519906474
+      female_gunner_36: -612882596
+      female_gunner_37: -204241948
+      female_gunner_38: 69789747
+      female_gunner_39: 559099285
+      female_gunner_4: 1003277687
+      female_gunner_40: 829293618
+      female_gunner_41: -195718860
+      female_gunner_42: -1979166121
+      female_gunner_43: -1590101440
+      female_gunner_44: -1808257007
+      female_gunner_45: -314422762
+      female_gunner_46: -2146964524
+      female_gunner_47: 2006038474
+      female_gunner_48: 1696001504
+      female_gunner_49: -563051791
+      female_gunner_5: 477297586
+      female_gunner_50: -527606299
+      female_gunner_51: 2133525928
+      female_gunner_52: -856971263
+      female_gunner_53: 381580561
+      female_gunner_54: -909822218
+      female_gunner_55: 1874365885
+      female_gunner_56: -2104623246
+      female_gunner_57: 392468013
+      female_gunner_58: 1794860911
+      female_gunner_59: -2099040057
+      female_gunner_6: -1685213588
+      female_gunner_60: -1485980832
+      female_gunner_61: -153934801
+      female_gunner_62: 808725617
+      female_gunner_63: 1458712133
+      female_gunner_64: -597822608
+      female_gunner_65: 545946299
+      female_gunner_66: -150090151
+      female_gunner_67: 1857682505
+      female_gunner_68: -298123892
+      female_gunner_69: -592892869
+      female_gunner_7: -1299298663
+      female_gunner_70: 841872407
+      female_gunner_71: 93554616
+      female_gunner_72: -1639184146
+      female_gunner_73: -1650015348
+      female_gunner_74: -491425542
+      female_gunner_75: 825652917
+      female_gunner_76: 776099174
+      female_gunner_77: -39099737
+      female_gunner_78: -2099272037
+      female_gunner_79: -2133094072
+      female_gunner_8: 680241072
+      female_gunner_80: 1468970062
+      female_gunner_81: 2093336854
+      female_gunner_82: -248396464
+      female_gunner_83: 1322837613
+      female_gunner_84: 1319314544
+      female_gunner_85: -787500840
+      female_gunner_86: 1655008215
+      female_gunner_87: 1916544959
+      female_gunner_88: -841477489
+      female_gunner_89: -993138948
+      female_gunner_9: -878516624
+      female_gunner_90: -806602641
+      female_gunner_91: 325857033
+      female_gunner_92: -1806435189
+      female_gunner_93: 2077758365
+      female_gunner_94: -1466078997
+      female_gunner_95: 1974232958
+      female_gunner_96: -254345715
+      female_gunner_97: -1158840835
+      female_gunner_98: -1818900846
+      female_gunner_99: 132829690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
