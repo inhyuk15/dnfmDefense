@@ -2,39 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FemaleGunner : MonoBehaviour, IUnit
+public class FemaleGunner : PlayerUnit
 {
     // Start is called before the first frame update
-    void Start()
+    void Start() { }
+
+    public override void Attack() { }
+
+    public override void Movement(Vector3 direction)
     {
-
+        if (direction != Vector3.zero)
+        {
+            Debug.Log(direction);
+            transform.position += direction * moveSpeed * Time.deltaTime;
+        }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-    public void Attack() {
-
-    }
-
-    public void Movement(Vector3 direction) {
-        transform.position += direction * moveSpeed * Time.deltaTime;
-    }
-
-    private string unitName;
-
-    private float hp;
-    private float mp;
-    private float range;
-    private float criticalChange;
-    private float manaRegeneration;
-    private float visionRange;
-
-    private float damage;
-    private float armor;
-    private float attackSpeed;
-    private float moveSpeed;
 }

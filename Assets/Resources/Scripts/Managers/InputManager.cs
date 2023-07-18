@@ -6,7 +6,7 @@ public class InputManager : MonoBehaviour
 {
     public static InputManager Instance { get; private set; }
     public VirtualJoystick joystick;
-    public IUnit unit;
+    public PlayerUnit unit;
 
     private void Awake()
     {
@@ -20,5 +20,16 @@ public class InputManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    void update() { }
+    void Update()
+    {
+        if (joystick.Direction != Vector3.zero)
+        {
+            // Debug.Log($"changed joystick direction ${joystick.Direction}");
+            unit.Movement(joystick.Direction);
+        }
+        else
+        {
+            // Debug.Log("not changed joystick direction");
+        }
+    }
 }
