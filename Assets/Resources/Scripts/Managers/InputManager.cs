@@ -6,7 +6,14 @@ public class InputManager : MonoBehaviour
 {
     public static InputManager Instance { get; private set; }
     public VirtualJoystick joystick;
+    public KeyboardController keyboard;
+
     public PlayerUnit unit;
+
+    private float cameraRadian;
+
+    [SerializeField]
+    private Camera camera;
 
     private void Awake()
     {
@@ -20,16 +27,28 @@ public class InputManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
+    void Start()
+    {
+        cameraRadian = camera.transform.eulerAngles.y;
+    }
+
     void Update()
     {
         if (joystick.Direction != Vector3.zero)
         {
-            // Debug.Log($"changed joystick direction ${joystick.Direction}");
-            unit.Movement(joystick.Direction);
+            Vector3 direction = IsometricVectorConverter.RotateVector3(
+                joystick.Direction,
+                cameraRadian
+            );
+            unit.Movement(direction);
         }
-        else
+        if (keyboard.Direction != Vector3.zero)
         {
-            // Debug.Log("not changed joystick direction");
+            Vector3 direction = IsometricVectorConverter.RotateVector3(
+                keyboard.Direction,
+                cameraRadian
+            );
+            unit.Movement(direction);
         }
     }
 }

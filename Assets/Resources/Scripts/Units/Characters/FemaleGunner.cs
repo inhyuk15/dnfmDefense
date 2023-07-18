@@ -13,8 +13,9 @@ public class FemaleGunner : PlayerUnit
     {
         if (direction != Vector3.zero)
         {
-            Debug.Log(direction);
-            transform.position += direction * moveSpeed * Time.deltaTime;
+            // Debug.Log(direction);
+            Vector3 nextDir = direction.normalized;
+            transform.position += nextDir * moveSpeed * Time.deltaTime;
         }
     }
 }

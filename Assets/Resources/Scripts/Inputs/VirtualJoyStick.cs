@@ -11,22 +11,27 @@ public class VirtualJoystick : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     [SerializeField]
     private RectTransform background;
 
-    [SerializeField, Range(10f, 150f)]
     private float controllerRange;
+
+    void Start()
+    {
+        controllerRange = background.sizeDelta.x / 2;
+    }
 
     public void ProcessDrag(PointerEventData e)
     {
+        Vector2 pointerPos;
         RectTransformUtility.ScreenPointToLocalPointInRectangle(
             background,
             e.position,
             e.pressEventCamera,
-            out Vector2 localPoint
+            out pointerPos
         );
-        var inputDir = localPoint - background.anchoredPosition;
-        var clampedDir =
-            inputDir.magnitude < controllerRange ? inputDir : inputDir.normalized * controllerRange;
-        controller.anchoredPosition = clampedDir;
-        Direction = new Vector3(clampedDir.normalized.x, 0f, clampedDir.normalized.y);
+
+        Vector2 movedPos = pointerPos - background.anchoredPosition;
+        movedPos = Vector2.ClampMagnitude(movedPos, controllerRange);
+        controller.anchoredPosition = movedPos;
+        Direction = new Vector3(movedPos.x / controllerRange, 0, movedPos.y / controllerRange);
     }
 
     public void OnBeginDrag(PointerEventData e)
