@@ -20,8 +20,11 @@ public class AnimationList
 
 public class AnimationFromJson : EditorWindow
 {
-    [SerializeField] List<Sprite> sprites = new List<Sprite>();
-    [SerializeField] TextAsset jsonFile;
+    [SerializeField]
+    List<Sprite> sprites = new List<Sprite>();
+
+    [SerializeField]
+    TextAsset jsonFile;
     string animationPath = "Assets/Resources/Animations";
 
     [MenuItem("Custom/Animation From JSON")]
@@ -31,11 +34,11 @@ public class AnimationFromJson : EditorWindow
     }
 
     private Vector2 scrollPos = Vector2.zero;
+
     private void OnGUI()
     {
         GUILayout.Label("Animation Generator from JSON", EditorStyles.boldLabel);
         GUILayout.Space(5);
-
 
         Event evt = Event.current;
 
@@ -64,7 +67,9 @@ public class AnimationFromJson : EditorWindow
                             if (dragged_object is Texture2D)
                             {
                                 string path = AssetDatabase.GetAssetPath(dragged_object);
-                                 UnityEngine.Object[] assets = AssetDatabase.LoadAllAssetsAtPath(path);
+                                UnityEngine.Object[] assets = AssetDatabase.LoadAllAssetsAtPath(
+                                    path
+                                );
                                 foreach (var asset in assets)
                                 {
                                     if (asset is Sprite sprite)
@@ -95,7 +100,7 @@ public class AnimationFromJson : EditorWindow
                         }
                     }
                 }
-            break;
+                break;
         }
 
         // Show list of sprites with scroll view
@@ -135,7 +140,10 @@ public class AnimationFromJson : EditorWindow
 
         foreach (AnimationData animationData in animationList.animations)
         {
-            List<Sprite> animationSprites = sprites.GetRange(animationData.startFrame - 1, animationData.endFrame - animationData.startFrame + 1);
+            List<Sprite> animationSprites = sprites.GetRange(
+                animationData.startFrame - 1,
+                animationData.endFrame - animationData.startFrame + 1
+            );
             GenerateAnimation(animationSprites, animationData.name);
         }
     }
@@ -159,11 +167,7 @@ public class AnimationFromJson : EditorWindow
         {
             // Sprite sprite = AssetDatabase.LoadAssetAtPath<Sprite>(spritePaths[i]);  // 경로에서 스프라이트를 로드
             // Debug.Log(spritePaths[i]);
-            keyFrames[i] = new ObjectReferenceKeyframe
-            {
-                time = i / 30f,
-                value = sprites[i]
-            };
+            keyFrames[i] = new ObjectReferenceKeyframe { time = i / 30f, value = sprites[i] };
         }
 
         AnimationUtility.SetObjectReferenceCurve(clip, curveBinding, keyFrames);
