@@ -8,7 +8,7 @@ public class InputManager : MonoBehaviour
     public VirtualJoystick joystick;
     public KeyboardController keyboard;
 
-    public PlayerUnit unit;
+    public Unit playerUnit;
 
     private float cameraRadian;
 
@@ -40,7 +40,7 @@ public class InputManager : MonoBehaviour
                 joystick.Direction,
                 cameraRadian
             );
-            unit.Movement(direction);
+            playerUnit.MoveInDirection(direction);
         }
         if (keyboard.Direction != Vector3.zero)
         {
@@ -48,7 +48,7 @@ public class InputManager : MonoBehaviour
                 keyboard.Direction,
                 cameraRadian
             );
-            unit.Movement(direction);
+            playerUnit.MoveInDirection(direction);
         }
     }
 }
